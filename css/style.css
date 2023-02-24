@@ -1,0 +1,70 @@
+.body {
+    font-family: 'Oswald', sans-serif;
+font-family: 'Shantell Sans', cursive;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1340px;
+    margin: 0px auto;
+}
+
+.dateNumber {
+    font-family: 'Shantell Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+}
+
+.date {
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.dateText {
+    text-align: center;
+}
+
+.dateFebruary {
+    font-family: 'Shantell Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+}
+
+.facition {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    margin-top: 15px;
+}
+
+.catImageWrapper {
+    width: 800px;
+    height: 800px;
+}
+
+.catImage {
+    height: 100%;
+}
+
+.starImageWrapper {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    margin-bottom: 23px;
+    margin-top: 23px;
+}
